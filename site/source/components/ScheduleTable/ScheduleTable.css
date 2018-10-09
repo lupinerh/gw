@@ -1,0 +1,19 @@
+
+.schedule {
+  overflow-x: scroll;
+  position: relative;
+  left: 250px;
+  background-color: white;
+}
+
+.schedule--chooseFile, .schedule--acceptChange{
+  border: 10px solid #eee;
+}
+
+
+
+td {
+  height: 70px;
+  border: 1px solid #eee;
+  width: 100px;
+}

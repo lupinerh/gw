@@ -1,0 +1,8 @@
+.news--container-cards {
+  position: relative;
+  left: 250px;
+  max-width: 50%;
+  min-width: 30%;
+  border: 20px solid white;
+  background-color: white;
+}

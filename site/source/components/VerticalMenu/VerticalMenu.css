@@ -1,0 +1,49 @@
+.vertical-menu {
+  left: 10px;
+  position: fixed;
+  /* position: absolute; */
+  width: 230px;
+}
+
+.vertical-menu a {
+    font-family: 'Roboto';
+    font-size: 18px;
+    background-color: white;
+    color: #aaa;
+    display: block;
+    padding: 16px;
+    border-right: 2px solid #aaa;
+    text-decoration: none;
+}
+
+.vertical-menu  a:hover {
+    /* background-color: #eee; */
+    color: black;
+    border-right: 2px solid black;
+}
+
+.vertical-menu a.menu-active {
+    /* background-color: #eee; */
+    color: black;
+    border-right: 2px solid black;
+    font-weight: bold;
+}
+
+.button-signout {
+  margin-top: 10px;
+  width: 230px;
+  font-family: 'Roboto';
+  font-size: 18px;
+  background-color: white;
+  color: #aaa;
+  display: block;
+  padding: 16px;
+  border: none;
+}
+
+.button-signout:hover {
+
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}

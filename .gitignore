@@ -1,0 +1,9 @@
+site/node_modules
+site/.DS_Store
+site/package-lock.json
+.DS_Store
+app/.DS_Store
+app/project/.DS_Store
+app/project/project/test
+app/project/project/GoogleService-Info.plist
+app/project/project/Info.plist
